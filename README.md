@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Gobarber Logo" src="https://i.imgur.com/bYhm9lQ.png" width="250px" />
+    <img alt="WonGames Logo" src="https://i.imgur.com/bYhm9lQ.png" width="250px" />
 </h1>
 
 <h1 align="center">
